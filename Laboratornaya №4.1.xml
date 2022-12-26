@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<timetable>
+	<day> Пятница</day>
+<subject1>
+<time> 15:20-16:50</time>
+<week> all</week>
+		<location> Кронверкский пр., д.49, лит.А</location>
+		<room> 2416</room>
+		<lesson> Математика (продвинутый уровень) - Практика</lesson>
+	</subject1>
+	<subject2>
+		<time> 17:00-18:30</time>
+		<week> all</week>
+		<location> Кронверкский пр., д.49, лит.А</location>
+		<room> 1410</room>
+		<lesson> Математика (продвинутый уровень) - Практика</lesson>
+	</subject2>
+<subject3>
+		<time> 18:40-20:10</time>
+		<week> all</week>
+		<location> Кронверкский пр., д.49, лит.А</location>
+		<room> 2416</room>
+		<lesson> Линейная алгебра (продвинутый уровень) - Практика</lesson>
+	</subject3>
+</timetable>
